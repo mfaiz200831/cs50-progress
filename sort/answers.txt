@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: it is super fast on the file that is already sorted , but really slow when the numbers are scrambled or reversed.it clearly take shortcuts when things are already in order
+
+sort2 uses: Merge sort
+
+How do you know?: it is very very crazy fast no matter which type of file you throw at it, whether sorted or scrambled it taked tiny fraction of a time
+
+sort3 uses: selection sort
+
+How do you know?: it is pretty slow overall across all the files, and even on the already sorted file, it does not get a speed boost, it takes the same yime for all files, it scans everything no matter what
